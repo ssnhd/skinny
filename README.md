@@ -4,7 +4,7 @@
 
 
 ## 在中国漫游资费
-1新西兰元 ≈ 4.3 人民币（当前汇率），官网查看资费：[点击这里](https://www.skinny.co.nz/pricing/overseas-roaming/)
+1新西兰元 ≈ 4.3 人民币（2023年9月汇率），官网查看资费：[点击这里](https://www.skinny.co.nz/pricing/overseas-roaming/)
 
 - 【月租】0
 - 【收短信】免费
