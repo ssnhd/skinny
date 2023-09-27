@@ -48,7 +48,7 @@
 >1. 打开 [https://www.skinny.co.nz](https://www.skinny.co.nz)，登陆进入帐号主页面，点击 **Transfer Credit** （有超过 1 新西兰元余额）；
 >2. 输入需要保号的 Skinny 号码，输入金额，点击 **MAKE TRANSFER** 即可。
 >#### 手机转余额
->1. 手机安装 Skinny Mobile 应用，验证码登陆；
+>1. 手机安装 [Skinny Mobile](https://apps.apple.com/cn/app/skinny-mobile/id926099138) 应用，验证码登陆；
 >2. 点击右下角的 **More**，找到 Send Gift，选择 **Credit**，输入接收余额的号码点击继续，输入金额点击发送即可完成 skinny 互转余额保号。
 
 ## 更换号码
