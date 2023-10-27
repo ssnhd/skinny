@@ -1,20 +1,17 @@
 # 新西兰 Skinny 电话实体卡，免费收短信
 
+## 资费
 
+| 类别 | 费用 |  
+|---|---|
+| **月租** | 0 |
+| **收短信** | 免费 |
+| **发短信** | 0.8 新西兰元／条 |
+|  **接电话**| 1.15 新西兰元／分钟 |
+| **打电话** | 2.3 新西兰元／分钟 |
+| **打新西兰电话或者接听语音信箱（voicemail）** | 1.15 新西兰元／分钟 |
 
-
-## 在中国漫游资费
-1新西兰元 ≈ 4.3 人民币（2023年9月汇率），官网查看资费：[点击这里](https://www.skinny.co.nz/pricing/overseas-roaming/)
-
-- 【月租】0
-- 【收短信】免费
-- 【发短信】0.8 新西兰元/条
-- 【接电话】1.15 新西兰元/分钟
-- 【打国内电话】2.3 新西兰元/分钟
-- 【打新西兰电话或者接听语音信箱（voicemail）】：1.15 新西兰元/分钟 
-
-
-**在中国漫游套餐**
+在中国漫游套餐，官网[查看](https://www.skinny.co.nz/pricing/overseas-roaming/)：
 
 - 11 新西兰元：3 天、100 分钟通话、100 条短信、500MB 流量；
 - 17 新西兰元：7 天、1GB 流量；
@@ -23,38 +20,41 @@
 ## 激活
 
 1. Skinny 包装上会印有手机号码，将手机卡插入手机
-2. 然后打开[激活网站](https://www.skinny.co.nz/register/)，点击 **GET STARTED NOW**
+2. 然后打开[激活网站](https://www.skinny.co.nz/register/)，点击【GET STARTED NOW】
 
 ![](https://i.imgur.com/PalQ1Ec.png)
   
-4. 选择 **Mobile**，输入包装上的号码并点击发送激活码
+4. 选择【Mobile】，输入包装上的号码并点击发送激活码
 
 >注：新西兰区号是 64，号码前面将 `0` 改为 `64`。
 
 ![](https://i.imgur.com/s2LtEQ7.png)
   
-6. 输入 5 位数验证码，点击 **SUBMIT** 提交即可。
+6. 输入 5 位数验证码，点击【SUBMIT】提交即可。
 7. 激活完成后手机会收到一条短信，网页返回主页面可查看号码有效期。
 
 ## 充值
-使用信用卡在 Skinny app 里充值。
+
+使用信用卡（例如 VISA）在 Skinny App 里充值。
 
 ## 保号
 
-- 方法一：余额发生变动时，以当天为基础延长号码有效期至 12 个月后。最低充值 5 新西兰元，支持信用卡（VISA、MASTE 等）充值。
-- 方法二：两张 Skinny 卡互转余额免费保号，将卡里余额转移到另一张卡里（最低 1 新西兰元，最高 60 新西兰元）。
+|  方案| 方法 |  
+|---|---|
+| **1** |余额发生变动时，以当天为基础延长号码有效期至 12 个月后 |
+| **2** |两张 Skinny 卡免费互转余额 |
 
->#### 网页转余额
->1. 打开 [https://www.skinny.co.nz](https://www.skinny.co.nz)，登陆进入帐号主页面，点击 **Transfer Credit** （有超过 1 新西兰元余额）；
->2. 输入需要保号的 Skinny 号码，输入金额，点击 **MAKE TRANSFER** 即可。
->#### 手机转余额
->1. 手机安装 [Skinny Mobile](https://apps.apple.com/cn/app/skinny-mobile/id926099138) 应用，验证码登陆；
->2. 点击右下角的 **More**，找到 Send Gift，选择 **Credit**，输入接收余额的号码点击继续，输入金额点击发送即可完成 skinny 互转余额保号。
+余额转移方法：
+|  |  |  
+|---|---|
+| 网页端 | 打开 [https://www.skinny.co.nz](https://www.skinny.co.nz)，登陆进入帐号主页面，点击【Transfer Credit】，输入需要保号的 Skinny 号码，输入金额，点击【MAKE TRANSFER】 |  
+| 手机端 | 安装 [Skinny Mobile](https://apps.apple.com/cn/app/skinny-mobile/id926099138) App 并登陆，点击右下角的【More】，找到【Send Gift】，选择【Credit】，输入接收余额的号码点击【继续】，输入金额点击【发送】 | 
+
 
 ## 更换号码
 支持在线更换号码，每次换号需要支付 5 新西兰元，且不支持余额扣款，只允许绑定的信用卡支付。
-1. 打开 Skinny 官网并登陆，点击 **Phone,SIM & Number**
-2. 点击 **Pick a new number**，输入几位数字进行搜索，选中心仪的号码
+1. 打开 Skinny 官网并登陆，点击【Phone,SIM & Number】
+2. 点击【Pick a new number】，输入几位数字进行搜索，选中心仪的号码
 3. 用信用卡付款 5 新西兰元，手机关机几分钟再重启即可。
 
 ## 注意事项
@@ -69,8 +69,11 @@
 
 教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
 
-## 购买 Skinny 实体电话卡
+## 商店
 
-官方商店：https://github.com/ssnhd/googlevoice
-
-
+商店地址：[点击这里](https://ssnhd.github.io/2023/03/19/store/)
+- GV
+- Gmail 靓号
+- 🇺🇸美国、🇬🇧英国、🇳🇿新西兰手机卡
+- Apple ID、礼品卡
+- Telegram、Twitter、ChatGPT
