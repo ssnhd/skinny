@@ -28,7 +28,7 @@
 
 ## 激活
 
-1. 将手机卡插入手机等待一会出现信号，打开 [https://www.skinny.co.nz/register](https://www.skinny.co.nz/register/) 点击 **GET STARTED NOW**。\
+1. 将手机卡插入手机等待一会出现信号，打开 [https://www.skinny.co.nz/register](https://www.skinny.co.nz/register/) 点击 **GET STARTED NOW**。
 2. 选择 **Mobile**，输入包装或卡上的号码并点击发送激活码。
 ![](https://i.imgur.com/s2LtEQ7.png)
 3. 输入 5 位数验证码，点击 **SUBMIT** 提交，手机会收到一条短信。
