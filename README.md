@@ -100,7 +100,7 @@
 
 1. 打开 https://www.skinny.co.nz/dashboard/sub?from=skinny-ula 并登陆，点击左侧 **Phone,SIM & Number**，再点击 **Pick a new number**
 2. 输入 2-6 位数字，点击 **SEARCH FOR NUMBERS**，挑选自己喜欢的号码
-3. 填写信用卡信息，点击 **PAY**，支付成功后，手机关机 5 分钟后再开机
+3. 填写信用卡点击 **PAY**，支付成功后，手机关机 5 分钟后再重启
 
 ---
 
