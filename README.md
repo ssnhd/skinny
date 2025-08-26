@@ -2,7 +2,7 @@
 
 友情提示：请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负！
 
-购买商店：<https://t.me/GVStore>
+购买商店：[点击这里](https://github.com/ssnhd/sim)
 
 ---
 
@@ -60,7 +60,7 @@
 
 1. 手机安装 Skinny App 并登录；
 2. 点击底部 **Top-up** → **Top up with a new card**，选择金额，点击 **CONFIRM**；
-3. 填写支持美元（卡上有 VISA 或 Master 标识）的信用卡信息。若无，联系客服支持代充。
+3. 填写支持美元（卡上有 VISA 或 Master 标识）的信用卡信息。若无，联系[客服](https://github.com/ssnhd/sim)代充值。
 ![](https://i.imgur.com/0f585rc.jpg)
 
 ---
