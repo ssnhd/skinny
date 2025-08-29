@@ -4,7 +4,7 @@
 
 购买商店：[点击这里](https://github.com/ssnhd/sim)
 
----
+
 
 ## 资费
 
@@ -17,27 +17,26 @@
 | **打电话** | 2.3 新西兰元／分钟 |
 | **打新西兰电话** | 1.15 新西兰元／分钟 |
 
-如果需要用到流量，可以到官网 https://www.skinny.co.nz/pricing/overseas-roaming/ 购买以下漫游套餐：
+如用流量，可以在[官网](https://www.skinny.co.nz/pricing/overseas-roaming/)购买漫游套餐：
 
 - 3 天 11 新西兰元：100 分钟/100 条短信/500MB 流量  
 - 7 天 17 新西兰元：1GB 流量
 - 7 天 23 新西兰元：200 分钟/200 条短信/1GB 流量
 
----
+
 
 ## 收到后
 
 已在新西兰激活，将卡插入手机等待有信号即可使用。
 
----
+
 
 ## 手机号
 
-包装上 "MOBILE #" 是你的手机号，一般会显示 0204xxx888，示例：+64 204xxx888（新西兰区号 `+64`）。
+包装上 "MOBILE #" 是手机号，一般会显示 0204xxx888，示例：+64 204xxx888（新西兰区号 `+64`）。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)号码前面的 0 日常使用不需要，登录 App 时加上。
+注：号码前面的 0 日常使用去掉，登录 App 时加上。
 
----
 
 ## 短信、电话格式
 
@@ -45,16 +44,15 @@
 - 发短信：`00`+`国家区号`，示例 0064204xxx888
 - 打电话：`+`+`国家区号`，示例 +64204xxx888 （长安拨号键 0 出现 +）
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)为防止因反诈政策导致中国大陆手机号码被停用，不建议与中国大陆 +86 号码联系。
+注：为防止因反诈政策导致中国大陆手机号码被停用，不建议与 +86 号码联系。
 
----
 
 ## 有效期
 
 1. 打开 Skinny App 输入号码（前面加 0，不要区号）接短信验证码登录，点击右下角 **More**；
 2. 点击右上角 **View and edit profile**，即可查看到你充值日期，从这个日期算起，12 个月内有效。
 
----
+
 
 ## 充值
 
@@ -63,7 +61,7 @@
 3. 填写支持美元（卡上有 VISA 或 Master 标识）的信用卡信息。若无，联系[客服](https://github.com/ssnhd/sim)代充值。
 ![](https://i.imgur.com/0f585rc.jpg)
 
----
+
 
 ## 保号
 
@@ -73,7 +71,7 @@
 - 方法二：每 12 个月内发条短信（确保有余额）
 - 方法三：互转余额（见下方）
 
----
+
 
 ## 互转余额（保号）
 
@@ -82,37 +80,39 @@
 - 网页端：打开[官网](https://www.skinny.co.nz)，登陆进入帐号主页面，点击 **Transfer Credit**，输入对方号码和金额，点击 **MAKE TRANSFER**。  
 - 手机端：安装 [Skinny Mobile](https://apps.apple.com/cn/app/skinny-mobile/id926099138) App 并登陆，点击右下角 **More** → **Send Gift** → **Credit**，输入对方号码点击**CONTINUE**，点击减号修改金额，点击 **CONFIRM**。 
 
----
+
 
 ## 查询有效期、余额
+
 登录 App 或者登陆网页可查询号码和有效期。
 
----
+## 新卡余额
+
+新卡没有余额，只能免费收短信，若想接打电话和发送短信需充值。
+
 
 ## 会欠费停机吗
-不会欠费，有效期内也不会停机。Skinny 是预付费，余额最低是 0，没有余额以后无法发短信和接打电话，还是可以收短信。
 
----
+有效期内也不会停机。Skinny 是预付费，余额最低是 0，没有余额以后无法发短信和接打电话，还是可以收短信。
+
 
 ## 更换号码
 
 如果对当前号码不满意，或该号码曾被他人使用后官方重新放出，您可以选择更换号码。每次更换需支付 5 新西兰元（约 21 元人民币），使用支持美元的信用卡支付，不支持余额扣款。
 
-1. 打开 https://www.skinny.co.nz/dashboard/sub?from=skinny-ula 并登陆，点击左侧 **Phone,SIM & Number**，再点击 **Pick a new number**
+1. 打开[官网](https://www.skinny.co.nz/dashboard/sub?from=skinny-ula)并登陆，点击左侧 **Phone,SIM & Number**，再点击 **Pick a new number**
 2. 输入 2-6 位数字，点击 **SEARCH FOR NUMBERS**，挑选自己喜欢的号码
 3. 填写信用卡点击 **PAY**，支付成功后，手机关机 5 分钟后再重启
 
----
+
 
 ## Wi-Fi Calling
 
-Wi-Fi Calling 允许使用 WiFi 连接拨打和接听电话，包括发送短信，即使没有移动信号覆盖。
+Wi-Fi Calling 允许使用 WiFi 连接拨打和接听电话，发送短信，即使没有移动信号覆盖。
 
-【满足要求】一部支持连接 WiFi 的手机、位于新西兰（其他国家不支持）。
+满足要求：位于新西兰（其他国家暂时不支持），详情请看官网介绍：[点击这里](https://www.skinny.co.nz/help/vowifi-calling)。
 
-官方指引：<https://www.skinny.co.nz/help/vowifi-calling/>
 
----
 
 ## 补卡
 
@@ -130,31 +130,13 @@ Wi-Fi Calling 允许使用 WiFi 连接拨打和接听电话，包括发送短信
 
 以上材料尽量提供即可，客服用于验证你确实是卡主。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)需要打客服电话 08004754669，全程英文，接通约一个小时。
+注：需要打客服电话 08004754669，全程英文，接通可能需要很长时间。
 
----
+## 携号转网
 
-## 新卡余额
-
-新卡没有余额，只能免费收短信，若想接打电话和发送短信需充值。
-
----
-
-## Wi-Fi Calling
-
----
-
-支持 Wi-Fi Calling，但没必要开启，因为漫游收费，详情请看官网介绍 https://www.skinny.co.nz/help/vowifi-calling
-
----
-
-## 转移号码
-
-官网接受：https://www.skinny.co.nz/dashboard/phone-details/changenumber/
-
----
+Skinny 支持携号转网，具体方法看官方介绍：[点击这里](https://www.skinny.co.nz/dashboard/phone-details/changenumber/)
 
 ## 官方客服
-- 邮件客服：<support@skinny.co.nz>
+- 邮件客服：support@skinny.co.nz
 - 电话客服：0800 475 4669
 - 在线客服：官网右下角在线客服
