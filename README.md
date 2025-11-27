@@ -46,6 +46,9 @@
 1. 电脑浏览器打开 https://signin.skinny.co.nz/register/
 2. 输入邮箱、设置密码，点击【NEXT】
 3. 设置姓名，点击【REGISTER】，即可登录官网
+4. 点击【ACTIVATE ACCOUNT】，输入手机号码（前面加0）
+5. 点击【SEND AUTHENTICATION CODE】
+6. 输入短信验证码，点击【SUBMIT】
 
 ## 有效期、余额
 
