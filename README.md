@@ -52,7 +52,7 @@
 
 ## 有效期、余额
 
-- 网页端：电脑登录官网，点击右上角【My Account】，找到【SIM Card】即可查看有效期和余额。
+- 网页端：电脑登录[官网](https://signin.skinny.co.nz/)，点击右上角【My Account】，找到【SIM Card】即可查看有效期和余额。
 
 - 手机端：登录 Skinny 软件，点击右下角【More】，点击右上角【View and edit profile】，可查看到充值日期，从这个日期算起，12 个月内有效。
 
