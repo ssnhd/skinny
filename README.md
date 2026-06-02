@@ -28,6 +28,34 @@
 
 >如用流量，在官网 https://www.skinny.co.nz/pricing/overseas-roaming 里购买上面套餐。
 
+
+## 官网注册 Skinny 账户
+
+注册后可以查看余额、有效期、更改号码等。
+
+1. 打开 https://signin.skinny.co.nz/register
+2. 输入邮箱、设置密码，点击 **NEXT**
+3. 设置姓名，点击 **REGISTER**，即可登录官网
+4. 点击 **ACTIVATE ACCOUNT**，输入手机号码（前面加0）
+5. 点击 **SEND AUTHENTICATION CODE**
+6. 输入短信验证码，点击 **SUBMIT**
+
+## 查看有效期、余额
+
+- 手机端：登录 Skinny App，点击右下角 **More**，点击右上角 **View and edit profile**，可查看到充值日期，从这个日期算起，12 个月内有效。
+
+- 网页端：登录 https://signin.skinny.co.nz ，点击右上角 **My Account**，找到 **SIM Card** 即可查看有效期和余额。
+
+
+## 充值
+
+1. 登录 Skinny App，点击底部 **Top-up** → **Top up with a new card**，选择金额，点击 **CONFIRM**；
+2. 填写支持美元（卡上有 VISA 或 Master 标识）的信用卡信息。
+
+>注：如果没有信用卡，联系 https://github.com/ssnhd/sim 代充值。
+
+![](https://i.imgur.com/0f585rc.jpg)
+
 ## 发短信、打电话格式
 
 **规则：`+`+`国家代码`+`手机号码`**
@@ -38,35 +66,6 @@
 
 🚫不建议联系国内 +86 号码。国内运营商通常默认拦截境外电话和短信，且有概率触发反诈风控，导致号码被停机。
 ![](https://i.imgur.com/0AJ8eSb.png)
-
-## 官网注册 Skinny 账户
-
-注册后可以查看余额、有效期、更改号码等。
-
-1. 浏览器打开 https://signin.skinny.co.nz/register
-2. 输入邮箱、设置密码，点击【NEXT】
-3. 设置姓名，点击【REGISTER】，即可登录官网
-4. 点击【ACTIVATE ACCOUNT】，输入手机号码（前面加0）
-5. 点击【SEND AUTHENTICATION CODE】
-6. 输入短信验证码，点击【SUBMIT】
-
-## 有效期、余额
-
-- 网页端：登录官网 https://signin.skinny.co.nz ，点击右上角【My Account】，找到【SIM Card】即可查看有效期和余额。
-
-- 手机端：登录 Skinny App，点击右下角【More】，点击右上角【View and edit profile】，可查看到充值日期，从这个日期算起，12 个月内有效。
-
-## 充值
-
-1. 打开 Skinny App 并登录；
-2. 点击底部 **Top-up** → **Top up with a new card**，选择金额，点击 **CONFIRM**；
-3. 填写支持美元（卡上有 VISA 或 Master 标识）的信用卡信息。
-
->注：如果没有信用卡，可以联系 https://github.com/ssnhd/sim 代充值。
-
-![](https://i.imgur.com/0f585rc.jpg)
-
-
 
 ## 保号
 
@@ -97,13 +96,9 @@
 
 如果对当前号码不满意，或该号码曾被他人使用后官方重新放出，可以选择更换号码。每次更换需支付 5 新西兰元（约 22 元人民币），使用支持美元的信用卡支付（不支持余额扣款）。
 
-1. 打开 https://www.skinny.co.nz/dashboard/sub?from=skinny-ula 并登陆，点击左侧 **Phone,SIM & Number**，再点击 **Pick a new number**
+1. 登录 https://www.skinny.co.nz/dashboard/sub?from=skinny-ula 点击左侧 **Phone,SIM & Number**，再点击 **Pick a new number**
 2. 输入 2-6 位数字，点击 **SEARCH FOR NUMBERS**，挑选自己喜欢的号码
 3. 填写信用卡点击 **PAY**，支付成功后，手机关机 5 分钟后再重启
-
-## Wi-Fi Calling
-
-需身处新西兰才支持，详情请看官网介绍：https://www.skinny.co.nz/help/vowifi-calling
 
 ## 补卡
 
