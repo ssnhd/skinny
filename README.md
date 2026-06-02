@@ -83,9 +83,6 @@
 - 网页端：打开 https://www.skinny.co.nz ，登陆进入帐号主页面，点击 **Transfer Credit**，输入对方号码和金额，点击 **MAKE TRANSFER**。  
 - 手机端：打开 Skinny App 并登陆，点击右下角 **More** → **Send Gift** → **Credit**，输入对方号码点击**CONTINUE**，点击减号修改金额，点击 **CONFIRM**。 
 
-## 查询有效期、余额
-
-登录 App 或者官网查询。
  
 ## 新卡余额
 
